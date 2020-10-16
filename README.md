@@ -12,24 +12,24 @@ Accept the string only if it contains even number of characters otherwise, retur
 
 Example:-  If your input string is “Petpan”, then first split it into PET26 and PAN26. And show the sum in base10.
 
-### Sample Input
+#### Sample Input
 
 “Petpan”
 
-### Sample Output
+#### Sample Output
 20416
 
 ## Day-3 : Mean, Median, and Mode
 
 Calculating the mean, median, and mode
 
-### Mean:
+#### Mean:
 
 We sum all elements in the array, divide the sum by
 if the array {X1,X2,X3,...,Xn},Finding Mean of the array is (X1+X2+X3+...+Xn)/n
 
 Here ' n ' is number of elements in the array,
-### Median
+#### Median
 
 To calculate the median, we need the elements of the array to be sorted in either non-increasing or non-decreasing order.
 We then average the two middle elements
