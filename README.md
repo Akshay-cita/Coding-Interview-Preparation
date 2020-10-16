@@ -29,7 +29,7 @@ We sum all elements in the array, divide the sum by
 if the array {X1,X2,X3,...,Xn},Finding Mean of the array is (X1+X2+X3+...+Xn)/n
 
 Here ' n ' is number of elements in the array,
-#### Median
+#### Median:
 
 To calculate the median, we need the elements of the array to be sorted in either non-increasing or non-decreasing order.
 We then average the two middle elements
@@ -42,7 +42,7 @@ Ex: Consider an array of length 3(The length of array is odd number){X1,X2,X3},t
 
 Ex: Consider an array of length 4(The length of array is even number){X1,X2,X3,X4},the median is (X2+X3)/2
 
-### Mode:
+#### Mode:
 
 We can find the number of occurrences of all the elements in the array.The maximum no.of occurence element will be the mode of the array
 
