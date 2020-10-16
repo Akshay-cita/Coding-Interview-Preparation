@@ -11,11 +11,12 @@ Write a program that will take an input string of alphabets, use the first half 
 Accept the string only if it contains even number of characters otherwise, return 0.
 
 Example:-  If your input string is “Petpan”, then first split it into PET26 and PAN26. And show the sum in base10.
-## Sample Input
+
+### Sample Input
 
 “Petpan”
 
-## Sample Output
+### Sample Output
 20416
 
 ## Day-3 : Mean, Median, and Mode
