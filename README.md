@@ -50,7 +50,7 @@ Ex:Consider an array of length 7, {X1,X2,X2,X4,X3,X4,X4}, The mode is X4 .i,e. X
 
 Assignment: Find who tweeted the most
 
-## User with max number of Tweets
+## Day-4 : User with max number of Tweets
 
 Given a list of tweets
 Program should find the user who has tweeted the most
