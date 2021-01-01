@@ -146,6 +146,8 @@ Sample:
 
 Output:
 
+The pairs are: ('1', '3')
+The pairs are: ('2', '3')
 2
 
 Explaination: There are 3 positions and associated values are 1 2 3. The pairs whose Bitwise value greater than k is 1 and 3 or 2 and 3. So there are 2 pairs.Out put is 2. 
