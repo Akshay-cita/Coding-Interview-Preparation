@@ -132,5 +132,23 @@ Sehwag 2
 dhoni 4
 
 
+## Day-5 : Bitwise AND
+
+You are given n positions and each position has a value associated with it.You can delete only two positions but their Bitwise AND should be greater than k,Dettermine the numbers of pairs of positions whose Bitwise AND value is greater than k.
+
+Sample:
+
+3 (Value of n)
+
+1 2 3 (Values)
+
+0 (value of k)
+
+Output:
+
+2
+
+Explaination: There are 3 positions and associated values are 1 2 3. The pairs whose Bitwise value greater than k is 1 and 3 or 2 and 3. So there are 2 pairs.Out put is 2. 
+
 
 
